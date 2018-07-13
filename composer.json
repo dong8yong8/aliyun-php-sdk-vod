@@ -15,7 +15,9 @@
         "php": ">=5.3"
     },
     "autoload": {
-        "psr-4": {"vod\\": "vod"}
+        "psr-4" : {
+			"vod\\": "aliyun-php-sdk-vod/vod"
+		}
     },
     
     "repositories": {
