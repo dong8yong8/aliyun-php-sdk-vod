@@ -1,0 +1,28 @@
+{
+    "name": "dong8yong8/aliyun-php-sdk-vod",
+    "type": "library",
+    "description": "Aliyun PHP SDK Vod",
+    "version": "2.11.3",
+    "license": "proprietary",
+    "homepage": "https://www.aliyun.com",
+    "authors": [
+        {
+            "name": "dzhy",
+            "email": "743139662@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {"vod\\": "vod"}
+    },
+    
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
+
