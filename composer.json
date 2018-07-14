@@ -2,7 +2,7 @@
     "name": "dong8yong8/aliyun-php-sdk-vod",
     "type": "library",
     "description": "Aliyun PHP SDK Vod",
-    "version": "2.11.3",
+    "version": "1.0.0",
     "license": "proprietary",
     "homepage": "https://www.aliyun.com",
     "authors": [
